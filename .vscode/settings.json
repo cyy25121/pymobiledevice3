@@ -1,0 +1,6 @@
+{
+  "python.analysis.typeCheckingMode": "off",
+  "eslint.workingDirectories": [
+    "./pymobiledevice3-ui"
+],
+}
